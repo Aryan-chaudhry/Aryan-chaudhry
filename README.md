@@ -30,4 +30,47 @@
 
 <p align="center">
   <a href="mailto:Aryanchaudhary2629@gmail.com">
-    <img src="https://img.shi
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-chaudhary-83571a252" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Aryan-chaudhry&theme=blueberry" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-chaudhry&layout=compact&theme=blueberry" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryan-chaudhry&theme=onestar&no-frame=true&margin-w=15&column=6" />
+</p>
+
+---
+
+## 🎨 Dynamic Contribution Graph 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+
+---
+
+## 🔥 Real-Time GitHub Activity 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-chaudhry&theme=react-dark&bg_color=000000&color=007BFF&line=ff0000&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+⭐ **Let's connect & innovate together!** 🚀🔥
