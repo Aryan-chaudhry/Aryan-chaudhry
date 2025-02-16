@@ -1,7 +1,7 @@
-
+<!-- 🚀 The World's Most Impressive GitHub Profile README 🚀 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F75C7E&width=600&lines=Hey,+I'm+Aryan+🚀;Full-Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Lifelong+Learner;Always+Pushing+the+Limits!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=007BFF&center=true&vCenter=true&width=900&lines=Hey,+I'm+Aryan+🚀;Full-Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Lifelong+Learner;Always+Pushing+the+Limits!" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 🔥 Passionate **Full-Stack Developer** & **Problem Solver**  
-- 💡 **Love to solve problems on** Data Structures & Algorithms  
+- 💡 **Love to solve Problems of** Data Structures & Algorithms  
 - 🎯 **Always up for** new challenges & scaling solutions  
 - 🤝 **Looking to collaborate on** open-source projects  
 
@@ -40,11 +40,10 @@
 ---
 
 ## 📊 GitHub Stats 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-chaudhry&theme=highcontrast" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-chaudhry&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-chaudhry&theme=blueberry" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-chaudhry&layout=compact&theme=blueberry" alt="Top Languages" />
 </p>
 
 ---
@@ -69,14 +68,15 @@
 ## 🔥 Real-Time GitHub Activity 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-chaudhry&theme=react-dark&bg_color=000000&color=58a6ff&line=ff0000&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-chaudhry&theme=react-dark&bg_color=000000&color=007BFF&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🎉 Randomly Changing Themes for a Cool Look
 
-```html
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=${randomTheme}" alt="GitHub Stats" />
-</p>
+
+
+
+---
+
+⭐ **Let's connect & innovate together!** 🚀🔥
