@@ -56,14 +56,7 @@
 
 ---
 
-## 🎨 Dynamic Contribution Graph 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
-
----
 
 ## 🔥 Real-Time GitHub Activity 
 
