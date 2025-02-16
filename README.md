@@ -1,7 +1,7 @@
-<!-- Next-Level GitHub Profile README -->
+<!-- 🚀 Ultimate GitHub Profile README 🚀 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F75C7E&width=600&lines=Hey,+I'm+Aryan+🚀;Full-Stack+Developer+%7C+Problem+Solver;Lifelong+Learner+%7C+Tech+Enthusiast;Always+Pushing+the+Limits!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F75C7E&width=600&lines=Hey,+I'm+Aryan+🚀;Full-Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Lifelong+Learner;Always+Pushing+the+Limits!" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,6 @@
 - 🔥 Passionate **Full-Stack Developer** & **Problem Solver**  
 - 💡 **Love exploring** Data Structures & Algorithms  
 - 🎯 **Always up for** new challenges & scaling solutions  
-- 🌱 **Currently learning:** AI/ML & System Design  
 - 🤝 **Looking to collaborate on** open-source projects  
 
 ---
@@ -40,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats (Auto Changing Theme)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -50,7 +49,7 @@
 
 ---
 
-## 🏆 GitHub Trophies (Shiny Mode)
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aryan-chaudhry&theme=onestar&no-frame=true&margin-w=15&column=6" />
@@ -58,20 +57,26 @@
 
 ---
 
-## 🎨 Dynamic Contribution Graph (With Animation!)
+## 🎨 Dynamic Contribution Graph 
 
 <p align="center">
-  <img src="https://github.com/Aryan-chaudhry/Aryan-chaudhry/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
 
 ---
 
-## 🔥 Real-Time GitHub Activity
+## 🔥 Real-Time GitHub Activity 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-chaudhry&theme=dracula&bg_color=000000&color=58a6ff&line=ff0000&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-chaudhry&theme=react-dark&bg_color=000000&color=58a6ff&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
-⭐ **Let's connect & innovate together!** 🚀🔥
+
+
+```html
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=${randomTheme}" alt="GitHub Stats" />
+</p>
