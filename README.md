@@ -1,26 +1,28 @@
-<!-- Inspired GitHub Profile README with animations and themes -->
-  
+<!-- Next-Level GitHub Profile README -->
+
 <h1 align="center">
-  Hi there, I'm Aryan! 👋
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F75C7E&width=600&lines=Hey,+I'm+Aryan+🚀;Full-Stack+Developer+%7C+Problem+Solver;Lifelong+Learner+%7C+Tech+Enthusiast;Always+Pushing+the+Limits!" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer+%7C+Problem+Solver;Passionate+about+Coding+and+DSA;Always+Learning+New+Tech!" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
 </p>
-
-## 🚀 About Me
-💡 Passionate full-stack developer & problem solver  
-⚡ Love exploring new DSA problems & building scalable solutions  
-🔥 Thriving on algorithmic challenges & continuous learning  
 
 ---
 
-## 🚀 Languages & Tools
+## 🚀 About Me
+- 🔥 Passionate **Full-Stack Developer** & **Problem Solver**  
+- 💡 **Love exploring** Data Structures & Algorithms  
+- 🎯 **Always up for** new challenges & scaling solutions  
+- 🌱 **Currently learning:** AI/ML & System Design  
+- 🤝 **Looking to collaborate on** open-source projects  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,react,redux,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,linux,postman,arduino" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,react,redux,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,linux,postman,arduino" />
 </p>
 
 ---
@@ -38,31 +40,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Auto Changing Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-chaudhry&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-chaudhry&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-chaudhry&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-chaudhry&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (Shiny Mode)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryan-chaudhry&theme=radical&no-frame=true&margin-w=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryan-chaudhry&theme=onestar&no-frame=true&margin-w=15&column=6" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🎨 Dynamic Contribution Graph (With Animation!)
 
 <p align="center">
   <img src="https://github.com/Aryan-chaudhry/Aryan-chaudhry/blob/output/github-contribution-grid-snake.svg" />
@@ -70,4 +66,12 @@
 
 ---
 
-⭐ **Feel free to connect & collaborate!** 🚀
+## 🔥 Real-Time GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-chaudhry&theme=dracula&bg_color=000000&color=58a6ff&line=ff0000&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+⭐ **Let's connect & innovate together!** 🚀🔥
