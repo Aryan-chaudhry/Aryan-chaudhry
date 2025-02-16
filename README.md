@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=blueberry" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-chaudhry&theme=blueberry" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Aryan-chaudhry&theme=blueberry" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-chaudhry&layout=compact&theme=blueberry" alt="Top Languages" />
 </p>
 
@@ -70,12 +70,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-chaudhry&theme=react-dark&bg_color=000000&color=007BFF&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </p>
-
----
-
-
-
-
 
 ---
 
