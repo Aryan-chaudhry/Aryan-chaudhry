@@ -1,4 +1,4 @@
-<!-- 🚀 Ultimate GitHub Profile README 🚀 -->
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F75C7E&width=600&lines=Hey,+I'm+Aryan+🚀;Full-Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Lifelong+Learner;Always+Pushing+the+Limits!" />
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 🔥 Passionate **Full-Stack Developer** & **Problem Solver**  
-- 💡 **Love exploring** Data Structures & Algorithms  
+- 💡 **Love to solve problems on** Data Structures & Algorithms  
 - 🎯 **Always up for** new challenges & scaling solutions  
 - 🤝 **Looking to collaborate on** open-source projects  
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aryan-chaudhry&theme=onestar&no-frame=true&margin-w=15&column=6" />
@@ -74,7 +74,7 @@
 
 ---
 
-
+## 🎉 Randomly Changing Themes for a Cool Look
 
 ```html
 <p align="center">
