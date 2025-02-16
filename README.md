@@ -27,3 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-chaudhry&" alt="Aryan-chaudhry" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan-chaudhry&show_icons=true&locale=en&layout=compact" alt="Aryan-chaudhry" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryan-chaudhry" alt="Aryan-chaudhry" /></a></p>
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
