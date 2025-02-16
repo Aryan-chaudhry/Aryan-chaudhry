@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=blueberry" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Aryan-chaudhry&theme=blueberry" alt="GitHub Streak" />
+<!--   <img src="https://streak-stats.demolab.com?user=Aryan-chaudhry&theme=blueberry" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-chaudhry&layout=compact&theme=blueberry" alt="Top Languages" />
 </p>
 
