@@ -11,7 +11,8 @@
 ---
 
 <p align="center">
-  <img src="/mnt/data/Screenshot 2025-03-01 184134.png" alt="GitHub Banner" width="100%"/>
+  ![Screenshot 2025-03-01 184134](https://github.com/user-attachments/assets/777daa39-6f34-4985-88be-85ba8d3279c4)
+
 </p>
 
 ---
