@@ -1,5 +1,10 @@
 <!-- 🚀 The World's Most Impressive GitHub Profile README 🚀 -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/main/Screenshot%202025-03-01%20184134.png" alt="GitHub Banner" width="100%"/>
+</p>
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=007BFF&center=true&vCenter=true&width=900&lines=Hey,+I'm+Aryan+🚀;Full-Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Lifelong+Learner;Always+Pushing+the+Limits!" />
 </h1>
@@ -10,10 +15,7 @@
 
 ---
 
-<p align="center">
-  ![Screenshot 2025-03-01 184134](https://github.com/user-attachments/assets/777daa39-6f34-4985-88be-85ba8d3279c4)
 
-</p>
 
 ---
 
