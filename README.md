@@ -1,11 +1,17 @@
 <!-- 🚀 The World's Most Impressive GitHub Profile README 🚀 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=007BFF&center=true&vCenter=true&width=900&lines=Hey,+I'm+Aryan+🚀;Full-Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Lifelong+Learner;Always+Pushing+the+Limits!" />
+  ![Screenshot 2025-03-01 184134](https://github.com/user-attachments/assets/56e48c2f-f4a9-42c5-8d3d-02e194884e03)
 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
+</p>
+
+---
+
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="GitHub Banner" width="100%"/>
 </p>
 
 ---
@@ -42,7 +48,6 @@
 ## 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryan-chaudhry&show_icons=true&theme=blueberry" alt="GitHub Stats" />
-<!--   <img src="https://streak-stats.demolab.com?user=Aryan-chaudhry&theme=blueberry" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-chaudhry&layout=compact&theme=blueberry" alt="Top Languages" />
 </p>
 
@@ -55,8 +60,6 @@
 </p>
 
 ---
-
-
 
 ## 🔥 Real-Time GitHub Activity 
 
