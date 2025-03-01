@@ -1,7 +1,7 @@
 <!-- 🚀 The World's Most Impressive GitHub Profile README 🚀 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/main/Screenshot%202025-03-01%20184134.png" alt="GitHub Banner" width="100%"/>
+  <img src="https://github.com/Aryan-chaudhry/Aryan-chaudhry/blob/main/Screenshot%202025-03-01%20184134.png" alt="GitHub Banner" width="100%"/>
 </p>
 
 
