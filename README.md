@@ -1,7 +1,7 @@
 <!-- 🚀 The World's Most Impressive GitHub Profile README 🚀 -->
 
 <h1 align="center">
-  ![Screenshot 2025-03-01 184134](https://github.com/user-attachments/assets/56e48c2f-f4a9-42c5-8d3d-02e194884e03)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=007BFF&center=true&vCenter=true&width=900&lines=Hey,+I'm+Aryan+🚀;Full-Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Lifelong+Learner;Always+Pushing+the+Limits!" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="GitHub Banner" width="100%"/>
+  <img src="/mnt/data/Screenshot 2025-03-01 184134.png" alt="GitHub Banner" width="100%"/>
 </p>
 
 ---
