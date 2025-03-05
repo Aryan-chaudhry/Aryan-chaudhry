@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 About Me
-- 🔥 Passionate **Full-Stack Developer** & **Problem Solver**  
+- 🔥 Passionate **MERN-Stack Developer** & **Problem Solver**  
 - 💡 **Love to solve Problems of** Data Structures & Algorithms  
 - 🎯 **Always up for** new challenges & scaling solutions  
 - 🤝 **Looking to collaborate on** open-source projects  
