@@ -1,7 +1,7 @@
 <!-- 🚀 The World's Most Impressive GitHub Profile README 🚀 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=007BFF&center=true&vCenter=true&width=900&lines=Hey,+I'm+Aryan+🚀;Full-Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Lifelong+Learner;Always+Pushing+the+Limits!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=007BFF&center=true&vCenter=true&width=900&lines=Hey,+I'm+Aryan+%F0%9F%9A%80;Full-Stack+Developer+%7C+Problem+Solver;Tech+Enthusiast+%7C+Lifelong+Learner;Always+Pushing+the+Limits!" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py" height="60" />
-  <br />
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,redux,nodejs,express,mongodb,mysql,html,css,bootstrap,git,linux,postman,arduino,aws" height="60" />
 </div>
 
@@ -78,13 +77,11 @@
 ## 👾 Contribution Graph (Pac-Man Style)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/output/pacman-contribution-graph.svg">
-  </picture>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/output/pacman-contribution-graph.svg" />
 </p>
 
 ---
 
-⭐ *Let's connect, code & create amazing tech together!* 🚀
+<h2 align="center">
+  ⭐ Let's connect, code & create amazing tech together! 🚀
+</h2>
