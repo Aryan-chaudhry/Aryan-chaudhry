@@ -67,8 +67,9 @@
 ## 📅 Current GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-chaudhry&theme=blueberry&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Aryan-chaudhry&theme=blueberry&hide_border=true" />
 </p>
+
 
 ---
 
