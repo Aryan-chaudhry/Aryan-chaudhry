@@ -66,7 +66,11 @@
 
 ## 📅 Current GitHub Streak
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Aryan-chaudhry" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://github.com/Aryan-chaudhry">
+    <img src="https://streak-stats.demolab.com/?user=Aryan-chaudhry&theme=highcontrast" alt="GitHub Streak"/>
+  </a>
+</p>
 
 
 ---
