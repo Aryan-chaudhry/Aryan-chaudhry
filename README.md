@@ -68,12 +68,27 @@
 
 ---
 
-## ✨ Badges
+## ✨ Badges & Highlights
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Aryan-chaudhry?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Aryan-chaudhry?style=social" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-chaudhry&theme=blueberry&hide_border=true" height="150" />
 </p>
+
+---
+
+## 📌 Best Project (Featured)
+
+<p align="center">
+  <a href="https://github.com/Aryan-chaudhry/your-best-repo" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Top%20Repo-Visit-007BFF?style=for-the-badge&logo=github" />
+  </a>
+  <br/>
+  ⭐ Stars:  
+  <img src="https://img.shields.io/github/stars/Aryan-chaudhry/your-best-repo?style=social" />
+</p>
+
+> 📝 Replace `your-best-repo` above with your actual repository name you want to feature.
 
 ---
 
