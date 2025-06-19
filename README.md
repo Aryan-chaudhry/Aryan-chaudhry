@@ -64,14 +64,10 @@
 
 ---
 
-## 📅 Current GitHub Streak
 
-<img src="https://streak-stats.demolab.com/?user=Aryan-chaudhry&theme=highcontrast" alt="streak ige"><a href=""></a></img>
+## ⭐ **Let's connect & innovate together!** 🚀🔥
 
-
----
-
-## ☕ Buy Me a Coffee
+☕ Buy Me a Coffee
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/aryanchaudc" target="_blank">
@@ -81,4 +77,4 @@
 
 ---
 
-⭐ **Let's connect & innovate together!** 🚀🔥
+
