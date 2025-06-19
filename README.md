@@ -66,7 +66,7 @@
 
 ## 📅 Current GitHub Streak
 
-https://streak-stats.demolab.com/?user=Aryan-chaudhry&theme=highcontrast
+<img src="https://streak-stats.demolab.com/?user=Aryan-chaudhry&theme=highcontrast" alt="streak ige"><a href=""></a></img>
 
 
 ---
