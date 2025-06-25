@@ -58,7 +58,10 @@
 
 ## gitgub Streek
 
-![](https://nirzak-streak-stats.vercel.app/?user=Aryan-chaudhry&theme=dark&hide_border=false)<br/>
+<p align="center">
+  ![](https://nirzak-streak-stats.vercel.app/?user=Aryan-chaudhry&theme=dark&hide_border=false)<br/>
+</p>
+
 
 
 ## 🔥 Real-Time GitHub Activity
