@@ -70,9 +70,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-chaudhry&theme=react-dark&bg_color=000000&color=007BFF&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </p>
 
----
-
-
 
 
 
