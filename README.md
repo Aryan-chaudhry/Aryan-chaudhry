@@ -59,7 +59,7 @@
 ## gitgub Streek
 
 <p align="center">
-  ![](https://nirzak-streak-stats.vercel.app/?user=Aryan-chaudhry&theme=dark&hide_border=false)<br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aryan-chaudhry&theme=dark&hide_border=false" />
 </p>
 
 
