@@ -71,5 +71,11 @@
 </p>
 
 
+<h3 align="center">🐍 GitHub Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan-chaudhry/Aryan-chaudhry/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
 
 
